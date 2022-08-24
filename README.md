@@ -3,8 +3,7 @@
 
   <div id="bages">
 		<a href="https://t.me/samelazy">
-		<img src="https://img.shields.io/badge/Telegram-%40Samelazy-%233390EC?style=for-the-badge&logo=telegram
-">
+		<img src="https://img.shields.io/badge/Telegram-%40Samelazy-%233390EC?style=for-the-badge&logo=telegram">
 		</a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Samelazy&style=flat-square&color=blue" alt=""/>
@@ -43,7 +42,6 @@ For me, each task is individual
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-	<img src="https://imgur.com/KocHPxc" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
