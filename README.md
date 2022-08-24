@@ -28,9 +28,9 @@
 
 I am self-taught :man_technologist:, I have been studying web development for more than a year, it was my hobby, but now it is no less than a part of me.
 
-I like to solve complex tasks, immerse myself in the process and try to aviod ready-made solutions in favor of an individual approach.
+:mortar_board: I like to solve complex tasks, immerse myself in the process and try to aviod ready-made solutions in favor of an individual approach.
 
-For me, each task is individual 
+For me, each task is individual
 
 ---
 
@@ -48,13 +48,10 @@ For me, each task is individual
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-HTML5 +
-CSS3 +
-JS +
-REACT +
-ReactRouter +
-REDUX +
-GIT +
-FIGMA+
-VSCode+
+---
+
+### :fire: My GitHub Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samelazy&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samelazy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
