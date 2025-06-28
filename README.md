@@ -23,9 +23,9 @@
 
 ---
 
-:v: My name is Tigran, I am 23 years old and I am Middle Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Taganrog
+:v: My name is Tigran, I am 24 years old and I am Middle+ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Taganrog
 
-:mortar_board: I have been working on freelancing for more than two years, then got a job with a company and worked there for 3 years
+:mortar_board: I have been working on freelancing for more than two years, then got a job with a company and worked there for 4 years
 
 :man_technologist: I like to solve complex tasks, immerse myself in the process and try to aviod ready-made solutions in favor of an individual approach.
 
