@@ -41,7 +41,7 @@
 * :zap: **High-Load Real-Time Data:** Configured WebSockets (40–50 pkts/sec) with **Flatbuffers** binary decoding, reducing network traffic by ~60% and CPU load.
 * :art: **Performance & Graphics:** Built 60 FPS Canvas & MapLibre map tracking systems and moved heavy math calculations to **Web Workers**.
 * :building_construction: **Architecture & Quality:** Adopted **Feature-Sliced Design (FSD)**, automated dependency checks, and introduced **Vitest & Playwright**, cutting critical prod bugs by 35%.
-* :group: **Leadership:** Mentored Junior developers to Middle level and defined team engineering standards.
+* :people_holding_hands: **Leadership:** Mentored Junior developers to Middle level and defined team engineering standards.
 
 ---
 
