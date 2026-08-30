@@ -30,7 +30,7 @@
 ### :wave: About Me
 
 * :v: **Name:** Tigran Mirzoyan | 25 years old
-* :computer: **Role:** Senior Frontend Engineer (React / TypeScript / Next.js) with 4.5+ years of commercial experience
+* :computer: **Role:** Senior Frontend Engineer (React / TypeScript / Next.js) with 5+ years of commercial experience
 * :rocket: **Focus:** Building scalable SPA & SSR applications, designing complex client architectures (FSD), and optimizing performance (Real-Time data, Canvas, Web Workers)
 * :briefcase: **Experience:** Heavy-Data & Mapping apps, Automotive/IoT, FinTech & Banking, Healthcare, HRTech, Travel, and Lifestyle
 
